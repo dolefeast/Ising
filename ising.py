@@ -1,7 +1,6 @@
 from itertools import count
 import numpy as np
 from copy import deepcopy
-from IPython import display
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
